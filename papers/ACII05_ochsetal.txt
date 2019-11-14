@@ -1,0 +1,18 @@
+@InProceedings{ochs2015,
+author="Ochs, Magalie
+and Niewiadomski, Radoslaw
+and Pelachaud, Catherine
+and Sadek, David",
+editor="Tao, Jianhua
+and Tan, Tieniu
+and Picard, Rosalind W.",
+title="Intelligent Expressions of Emotions",
+booktitle="Affective Computing and Intelligent Interaction",
+year="2005",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="707--714",
+abstract="We propose an architecture of an embodied conversational agent that takes into account two aspects of emotions: the emotions triggered by an event (the felt emotions) and the expressed emotions (the displayed ones), which may differ in real life. In this paper, we present a formalization of emotion eliciting-events based on a model of the agent's mental state composed of beliefs, choices, and uncertainties. This model enables to identify the emotional state of an agent at any time. We also introduce a computational model based on fuzzy logic that computes facial expressions of emotions blending. Finally, examples of facial expressions resulting from the implementation of our model are shown.",
+isbn="978-3-540-32273-3"
+}
+

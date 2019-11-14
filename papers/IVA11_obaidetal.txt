@@ -1,0 +1,15 @@
+@incollection{
+year={2011},
+isbn={978-3-642-23973-1},
+booktitle={Intelligent Virtual Agents},
+volume={6895},
+series={Lecture Notes in Computer Science},
+editor={Vilhjálmsson, HannesHögni and Kopp, Stefan and Marsella, Stacy and Thórisson, KristinnR.},
+doi={10.1007/978-3-642-23974-8_39},
+title={Perception of Spatial Relations and of Coexistence with Virtual Agents},
+url={http://dx.doi.org/10.1007/978-3-642-23974-8_39},
+publisher={Springer Berlin Heidelberg},
+keywords={Augmented Reality; Immersive Virtual Reality; Virtual Agents},
+author={Obaid, Mohammad and Niewiadomski, Radosław and Pelachaud, Catherine},
+pages={363-369}
+}

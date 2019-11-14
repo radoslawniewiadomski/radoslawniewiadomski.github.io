@@ -1,0 +1,23 @@
+@Inbook{Buisine2006,
+author="Buisine, St{\'e}phanie
+and Abrilian, Sarkis
+and Niewiadomski, Radoslaw
+and Martin, Jean-Claude
+and Devillers, Laurence
+and Pelachaud, Catherine",
+editor="Gratch, Jonathan
+and Young, Michael
+and Aylett, Ruth
+and Ballin, Daniel
+and Olivier, Patrick",
+title="Perception of Blended Emotions: From Video Corpus to Expressive Agent",
+bookTitle="Intelligent Virtual Agents: 6th International Conference, IVA 2006, Marina Del Rey, CA, USA, August 21-23, 2006. Proceedings",
+year="2006",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="93--106",
+isbn="978-3-540-37594-4",
+doi="10.1007/11821830_8",
+url="http://dx.doi.org/10.1007/11821830_8"
+}
+

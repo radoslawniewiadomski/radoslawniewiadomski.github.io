@@ -1,0 +1,32 @@
+@InProceedings{10.1007/978-3-642-55143-7_3,
+author="Mancini, Maurizio
+and Ach, Laurent
+and Bantegnie, Emeline
+and Baur, Tobias
+and Berthouze, Nadia
+and Datta, Debajyoti
+and Ding, Yu
+and Dupont, St{\'e}phane
+and Griffin, Harry J.
+and Lingenfelser, Florian
+and Niewiadomski, Radoslaw
+and Pelachaud, Catherine
+and Pietquin, Olivier
+and Piot, Bilal
+and Urbain, J{\'e}r{\^o}me
+and Volpe, Gualtiero
+and Wagner, Johannes",
+editor="Rybarczyk, Yves
+and Cardoso, Tiago
+and Rosas, Jo{\~a}o
+and Camarinha-Matos, Luis M.",
+title="Laugh When You're Winning",
+booktitle="Innovative and Creative Developments in Multimodal Interaction Systems",
+year="2014",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="50--79",
+abstract="Developing virtual characters with naturalistic game playing capabilities is an increasingly researched topic in Human-Computer Interaction. Possible roles for such characters include virtual teachers, personal care assistants, and companions for children. Laughter is an under-investigated emotional expression both in Human-Human and Human-Computer Interaction. The EU Project ILHAIRE, aims to study this phenomena and endow machines with laughter detection and synthesis capabilities. The Laugh when you're winning project, developed during the eNTERFACE 2013 Workshop in Lisbon, Portugal, aimed to set up and test a game scenario involving two human participants and one such virtual character. The game chosen, the yes/no game, induces natural verbal and non-verbal interaction between participants, including frequent hilarious events, e.g., one of the participants saying ``yes'' or ``no'' and so losing the game. The setup includes software platforms, developed by the ILHAIRE partners, allowing automatic analysis and fusion of human participants' multimodal data (voice, facial expression, body movements, respiration) in real-time to detect laughter. Further, virtual characters endowed with multimodal skills were synthesised in order to interact with the participants by producing laughter in a natural way.",
+isbn="978-3-642-55143-7"
+}
+

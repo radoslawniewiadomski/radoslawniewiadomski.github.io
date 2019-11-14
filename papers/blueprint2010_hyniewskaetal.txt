@@ -1,0 +1,10 @@
+@incollection{
+ author = {Hyniewska, S. and Niewiadomski, R. and Mancini, M. and Pelachaud, C.},
+ title = {Expression of affects in Embodied Conversational Agents},
+ booktitle = {A Blueprint for Affective Computing: A sourcebook},
+ editor = {Scherer, K.R. and Banziger, T. and Roesch, E.},
+ year = {2010},
+ pages = {213--221},
+ publisher = {Oxford: Oxford University Press}
+} 
+

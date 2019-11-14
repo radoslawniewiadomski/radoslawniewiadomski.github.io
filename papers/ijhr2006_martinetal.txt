@@ -1,0 +1,10 @@
+@article{martin2016,
+author = {JEAN-CLAUDE MARTIN and RADOSLAW NIEWIADOMSKI and LAURENCE DEVILLERS and STEPHANIE BUISINE and CATHERINE PELACHAUD},
+title = {MULTIMODAL COMPLEX EMOTIONS: GESTURE EXPRESSIVITY AND BLENDED FACIAL EXPRESSIONS},
+journal = {International Journal of Humanoid Robotics},
+volume = {03},
+number = {03},
+pages = {269-291},
+year = {2006},
+doi = {10.1142/S0219843606000825},
+}

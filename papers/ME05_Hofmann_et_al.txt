@@ -1,0 +1,20 @@
+@Article{Hofmann2015,
+author="Hofmann, Jennifer
+and Platt, Tracey
+and Ruch, Willibald
+and Niewiadomski, Radoslaw
+and Urbain, J{\'e}r{\^o}me",
+title="The influence of a virtual companion on amusement when watching funny films",
+journal="Motivation and Emotion",
+year="2015",
+month="Jun",
+day="01",
+volume="39",
+number="3",
+pages="434--447",
+abstract="We investigated the role of a virtual companion and trait cheerfulness on the elicitation of amusement. Ninety participants watched funny films in four conditions: either alone, with a virtual companion laughing or verbally expressing amusement at fixed time points (pre-scripted), or additionally joining the participant's laughter (responsive companion). Amusement was assessed facially and vocally by coding Duchenne Displays and laughter vocalizations. Participants' cheerful mood pre and post the film watching and positive experience were assessed. Results showed that high trait cheerful individuals generally experienced and expressed more amusement than low trait cheerful individuals. The presence of a virtual companion (compared to being alone) led to more laughter for individuals low in trait cheerfulness. Unexpectedly, the responsive companion did not elicit more amusement than the pre-scripted companion. The general disliking of virtual companions and gelotophobia related negatively to amusement. Amusement expressing virtual companions may be used in interventions aiming at eliciting positive responses, especially for individuals with higher thresholds for amusement.",
+issn="1573-6644",
+doi="10.1007/s11031-014-9461-y",
+url="https://doi.org/10.1007/s11031-014-9461-y"
+}
+

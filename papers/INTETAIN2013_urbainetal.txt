@@ -1,0 +1,12 @@
+@incollection{
+year={2013},
+isbn={978-3-319-03891-9},
+booktitle={Intelligent Technologies for Interactive Entertainment},
+volume={124},
+series={Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering},
+editor={Mancas, Matei and d’ Alessandro, Nicolas and Siebert, Xavier and Gosselin, Bernard and Valderrama, Carlos and Dutoit, Thierry},
+title={Multimodal Analysis of Laughter for an Interactive System},
+publisher={Springer International Publishing},
+author={Urbain, Jérôme and Niewiadomski, Radoslaw and Mancini, Maurizio and Griffin, Harry and Çakmak, Hüseyin and Ach, Laurent and Volpe, Gualtiero},
+pages={183-192}
+}

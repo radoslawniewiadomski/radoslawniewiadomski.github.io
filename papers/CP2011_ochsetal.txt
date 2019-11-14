@@ -1,0 +1,15 @@
+@article{
+year={2012},
+issn={1612-4782},
+journal={Cognitive Processing},
+volume={13},
+number={2},
+doi={10.1007/s10339-011-0424-x},
+title={Smiling virtual agent in social context},
+url={http://dx.doi.org/10.1007/s10339-011-0424-x},
+publisher={Springer-Verlag},
+keywords={Smile; Virtual agent; Facial expression; Politeness; Amusement; Embarrassment},
+author={Ochs, Magalie and Niewiadomski, Radoslaw and Brunet, Paul and Pelachaud, Catherine},
+pages={519-532},
+language={English}
+}

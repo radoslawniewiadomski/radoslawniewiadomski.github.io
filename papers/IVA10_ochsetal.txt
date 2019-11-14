@@ -1,0 +1,15 @@
+@incollection{
+year={2010},
+isbn={978-3-642-15891-9},
+booktitle={Intelligent Virtual Agents},
+volume={6356},
+series={Lecture Notes in Computer Science},
+editor={Allbeck, Jan and Badler, Norman and Bickmore, Timothy and Pelachaud, Catherine and Safonova, Alla},
+doi={10.1007/978-3-642-15892-6_47},
+title={How a Virtual Agent Should Smile?},
+url={http://dx.doi.org/10.1007/978-3-642-15892-6_47},
+publisher={Springer Berlin Heidelberg},
+keywords={Smile; Embodied Conversational Agent (ECA); Facial Expression; Decision Tree},
+author={Ochs, Magalie and Niewiadomski, Radosław and Pelachaud, Catherine},
+pages={427-440}
+}

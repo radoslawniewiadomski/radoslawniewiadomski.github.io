@@ -1,0 +1,15 @@
+@incollection{
+year={2008},
+isbn={978-3-540-85482-1},
+booktitle={Intelligent Virtual Agents},
+volume={5208},
+series={Lecture Notes in Computer Science},
+editor={Prendinger, Helmut and Lester, James and Ishizuka, Mitsuru},
+doi={10.1007/978-3-540-85483-8_4},
+title={Expressions of Empathy in ECAs},
+url={http://dx.doi.org/10.1007/978-3-540-85483-8_4},
+publisher={Springer Berlin Heidelberg},
+keywords={ECA; empathy; facial expressions},
+author={Niewiadomski, Radoslaw and Ochs, Magalie and Pelachaud, Catherine},
+pages={37-44}
+}

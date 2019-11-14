@@ -1,0 +1,19 @@
+@Inbook{Lussu2016,
+author="Lussu, Vincenzo
+and Niewiadomski, Radoslaw
+and Volpe, Gualtiero
+and Camurri, Antonio",
+editor="Chetouani, Mohamed
+and Cohn, Jeffrey
+and Salah, Albert Ali",
+title="Using the Audio Respiration Signal for Multimodal Discrimination of Expressive Movement Qualities",
+bookTitle="Human Behavior Understanding: 7th International Workshop, HBU 2016, Amsterdam, The Netherlands, October 16, 2016, Proceedings",
+year="2016",
+publisher="Springer International Publishing",
+address="Cham",
+pages="102--115",
+isbn="978-3-319-46843-3",
+doi="10.1007/978-3-319-46843-3_7",
+url="http://dx.doi.org/10.1007/978-3-319-46843-3_7"
+}
+

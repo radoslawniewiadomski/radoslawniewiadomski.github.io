@@ -1,0 +1,12 @@
+@ARTICLE{mancini2017,
+author={M. Mancini and R. Niewiadomski and S. Hashimoto and M. E. Foster and S. Scherer and G. Volpe},
+journal={IEEE Transactions on Affective Computing},
+title={Guest Editorial: Towards Machines Able to Deal with Laughter},
+year={2017},
+volume={8},
+number={4},
+pages={492-494},
+keywords={},
+doi={10.1109/TAFFC.2017.2766938},
+ISSN={1949-3045},
+month={Oct},}

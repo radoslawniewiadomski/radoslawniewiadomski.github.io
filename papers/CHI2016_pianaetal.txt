@@ -1,0 +1,16 @@
+@inproceedings{piana2016,
+ author = {Piana, Stefano and Alborno, Paolo and Niewiadomski, Radoslaw and Mancini, Maurizio and Volpe, Gualtiero and Camurri, Antonio},
+ title = {Movement Fluidity Analysis Based on Performance and Perception},
+ booktitle = {Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems},
+ series = {CHI EA '16},
+ year = {2016},
+ isbn = {978-1-4503-4082-3},
+ location = {Santa Clara, California, USA},
+ pages = {1629--1636},
+ numpages = {8},
+ url = {http://doi.acm.org/10.1145/2851581.2892478},
+ doi = {10.1145/2851581.2892478},
+ acmid = {2892478},
+ publisher = {ACM},
+ address = {New York, NY, USA}
+} 

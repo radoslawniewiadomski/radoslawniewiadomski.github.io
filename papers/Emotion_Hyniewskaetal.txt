@@ -1,0 +1,13 @@
+@inbook{
+author = {Hyniewska Sylwia Julia and Niewiadomski Radosław and Pelachaud Catherine},
+publisher = {Wiley-Blackwell},
+isbn = {9781118601938},
+title = {Modeling Facial Expressions of Emotions},
+booktitle = {Emotion‐Oriented Systems},
+chapter = {6},
+pages = {169-190},
+doi = {10.1002/9781118601938.ch6},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118601938.ch6},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118601938.ch6},
+year = {2013}
+}

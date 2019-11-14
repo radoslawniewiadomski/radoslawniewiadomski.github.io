@@ -1,0 +1,17 @@
+@inproceedings{Niewiadomski:2018,
+ author = {Niewiadomski, Radoslaw and Chauvigne, Lea and Mancini, Maurizio and Camurri, Antonio},
+ title = {Towards a Model of Nonverbal Leadership in Unstructured Joint Physical Activity},
+ booktitle = {Proceedings of the 5th International Conference on Movement and Computing},
+ series = {MOCO '18},
+ year = {2018},
+ isbn = {978-1-4503-6504-8},
+ location = {Genoa, Italy},
+ pages = {20:1--20:8},
+ articleno = {20},
+ numpages = {8},
+ doi = {10.1145/3212721.3212816},
+ acmid = {3212816},
+ publisher = {ACM},
+ address = {New York, NY, USA}
+} 
+

@@ -1,0 +1,14 @@
+@incollection{
+year={2013},
+isbn={978-3-319-02713-5},
+booktitle={Human Behavior Understanding},
+volume={8212},
+series={Lecture Notes in Computer Science},
+editor={Salah, AlbertAli and Hung, Hayley and Aran, Oya and Gunes, Hatice},
+doi={10.1007/978-3-319-02714-2_16},
+title={MMLI: Multimodal Multiperson Corpus of Laughter in Interaction},
+url={http://dx.doi.org/10.1007/978-3-319-02714-2_16},
+publisher={Springer International Publishing},
+author={Niewiadomski, Radoslaw and Mancini, Maurizio and Baur, Tobias and Varni, Giovanna and Griffin, Harry and Aung, MinS.H.},
+pages={184-195}
+}

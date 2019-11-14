@@ -1,0 +1,13 @@
+@incollection{
+year={2008},
+isbn={978-3-540-79036-5},
+booktitle={Modeling Communication with Robots and Virtual Humans},
+volume={4930},
+series={Lecture Notes in Computer Science},
+editor={Wachsmuth, Ipke and Knoblich, Günther},
+doi={10.1007/978-3-540-79037-2_11},
+title={Facial Deception in Humans and ECAs},
+publisher={Springer Berlin Heidelberg},
+author={Poggi, Isabella and Niewiadomski, Radoslaw and Pelachaud, Catherine},
+pages={198-221}
+}

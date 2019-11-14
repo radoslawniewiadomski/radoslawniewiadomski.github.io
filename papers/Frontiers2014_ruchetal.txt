@@ -1,0 +1,21 @@
+@ARTICLE{
+  
+ AUTHOR={Ruch, Willibald F.  and  Platt, Tracey  and  Hofmann, Jennifer  and  Niewiadomski, Radoslaw  and  Urbain, Jérôme  and  Mancini, Maurizio  and  Dupont, Stéphane},   
+	 
+TITLE={Gelotophobia and the Challenges of Implementing Laughter into Virtual Agents Interactions},      
+	
+JOURNAL={Frontiers in Human Neuroscience},      
+	
+VOLUME={8},      
+	
+YEAR={2014},      
+	
+NUMBER={928},     
+	  
+URL={http://www.frontiersin.org/human_neuroscience/10.3389/fnhum.2014.00928/abstract},       
+	
+DOI={10.3389/fnhum.2014.00928},      
+	
+ISSN={1662-5161} ,      
+	
+ABSTRACT={This study investigated which features of avatar laughter are perceived threatening for individuals with a fear of being laughed at (gelotophobia), and individuals with no gelotophobia. Laughter samples were systematically varied (e.g., intensity, laughter pitch, and energy for the voice, intensity of facial actions of the face) in three modalities: animated facial expressions, synthesized auditory laughter vocalizations, and motion capture generated puppets displaying laughter body movements. In the online study 123 adults completed, the GELOPH<15> (Ruch and Proyer, 2008) and rated randomly presented videos of the three modalities for how malicious, how friendly, how real the laughter was (0 not at all to 8 extremely). Additionally, an open question asked which markers led to the perception of friendliness/maliciousness. The current study identified features in all modalities of laughter stimuli that were perceived as malicious in general, and some that were gelotophobia specific. For facial expressions of avatars, medium intensity laughs triggered highest maliciousness in the gelotophobes. In the auditory stimuli, the fundamental frequency modulations and the variation in intensity were indicative of maliciousness. In the body, backwards and forward movements and rocking vs. jerking movements distinguished the most malicious from the least malicious laugh. From the open answers the shape and appearance of the lips curling induced feelings that the expression was malicious for non-gelotophobes and that the movement round the eyes, elicited the face to appear as friendly. This was opposite for gelotophobes. Gelotophobia savvy avatars should be of high intensity, containing lip and eye movements and be fast, non-repetitive voiced vocalization, variable and of short duration. It should not contain any features that indicate a down-regulation in the voice or body, or indicate voluntary/cognitive modulation.}}

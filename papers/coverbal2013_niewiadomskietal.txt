@@ -1,0 +1,10 @@
+@incollection{
+ author = {Niewiadomski, R. and Mancini, M. and Piana, S.},
+ title = {Human and virtual agent expressive gesture quality analysis and synthesis},
+ booktitle = {Coverbal Synchrony in Human-Machine Interaction},
+ editor = {Rojc, M. and Campbell, N.},
+ year = {2013},
+ pages = {269--292},
+ publisher = {CRC Press, Science Publishers (USA)}
+} 
+

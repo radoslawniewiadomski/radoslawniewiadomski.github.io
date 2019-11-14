@@ -1,0 +1,14 @@
+@inproceedings{
+ author = {Niewiadomski, Rados\law and Hofmann, Jennifer and Urbain, J{\'e}r\^{o}me and Platt, Tracey and Wagner, Johannes and Piot, Bilal and Cakmak, Huseyin and Pammi, Sathish and Baur, Tobias and Dupont, Stephane and Geist, Matthieu and Lingenfelser, Florian and McKeown, Gary and Pietquin, Olivier and Ruch, Willibald},
+ title = {Laugh-aware Virtual Agent and Its Impact on User Amusement},
+ booktitle = {Proceedings of the 2013 International Conference on Autonomous Agents and Multi-agent Systems},
+ series = {AAMAS '13},
+ year = {2013},
+ isbn = {978-1-4503-1993-5},
+ location = {St. Paul, MN, USA},
+ pages = {619--626},
+ numpages = {8},
+ publisher = {International Foundation for Autonomous Agents and Multiagent Systems},
+ address = {Richland, SC},
+ keywords = {laughter detection, laughter synthesis, virtual agents}
+} 

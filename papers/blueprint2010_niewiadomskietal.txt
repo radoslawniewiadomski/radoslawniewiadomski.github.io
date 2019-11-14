@@ -1,0 +1,9 @@
+@incollection{
+ author = {Niewiadomski, R. and Mancini, M. and Hyniewska, S. and Pelachaud, C.},
+ title = {Communicating emotional states with the Greta agent},
+ booktitle = {A Blueprint for Affective Computing: A sourcebook},
+ editor = {Scherer, K.R. and Banziger, T. and Roesch, E.},
+ year = {2010},
+ pages = {256--268},
+ publisher = {Oxford: Oxford University Press}
+} 

@@ -1,0 +1,15 @@
+@article{
+year={2010},
+issn={1783-7677},
+journal={Journal on Multimodal User Interfaces},
+volume={4},
+number={1},
+doi={10.1007/s12193-010-0053-1},
+title={AVLaughterCycle},
+url={http://dx.doi.org/10.1007/s12193-010-0053-1},
+publisher={Springer-Verlag},
+keywords={Laughter; Embodied Conversational Agent; Acoustic similarity; Facial motion tracking},
+author={Urbain, Jérôme and Niewiadomski, Radoslaw and Bevacqua, Elisabetta and Dutoit, Thierry and Moinet, Alexis and Pelachaud, Catherine and Picart, Benjamin and Tilmanne, Joëlle and Wagner, Johannes},
+pages={47-58},
+language={English}
+}

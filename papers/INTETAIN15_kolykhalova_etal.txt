@@ -1,0 +1,8 @@
+@INPROCEEDINGS{7325489,
+author={K. Kolykhalova and A. Camurri and G. Völpe and M. Sanguineti and E. Puppo and R. Niewiadomski},
+booktitle={Intelligent Technologies for Interactive Entertainment (INTETAIN), 2015 7th International Conference on},
+title={A multimodal dataset for the analysis of movement qualities in karate martial art},
+year={2015},
+pages={74-78},
+keywords={gait analysis;MoCap data;audio recordings;karate martial art;motion capture data;multimodal dataset;postprocessing algorithm;video recordings;Acceleration;Back;Biomechanics;Hip;Joints;Synchronization;Trajectory;Motion capture;karate;movement features;multimodal dataset},
+month={June},}

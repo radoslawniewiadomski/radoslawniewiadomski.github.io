@@ -1,0 +1,15 @@
+@incollection{
+year={2009},
+isbn={978-3-642-04379-6},
+booktitle={Intelligent Virtual Agents},
+volume={5773},
+series={Lecture Notes in Computer Science},
+editor={Ruttkay, Zsófia and Kipp, Michael and Nijholt, Anton and Vilhjálmsson, HannesHögni},
+doi={10.1007/978-3-642-04380-2_34},
+title={Modeling Emotional Expressions as Sequences of Behaviors},
+url={http://dx.doi.org/10.1007/978-3-642-04380-2_34},
+publisher={Springer Berlin Heidelberg},
+keywords={virtual characters; emotional expressions; multimodality},
+author={Niewiadomski, Radosław and Hyniewska, Sylwia and Pelachaud, Catherine},
+pages={316-322}
+}

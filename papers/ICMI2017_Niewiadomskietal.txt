@@ -1,0 +1,16 @@
+@inproceedings{Niewiadomski2017,
+ author = {Niewiadomski, Radoslaw and Mancini, Maurizio and Piana, Stefano and Alborno, Paolo and Volpe, Gualtiero and Camurri, Antonio},
+ title = {Low-intrusive Recognition of Expressive Movement Qualities},
+ booktitle = {Proceedings of the 19th ACM International Conference on Multimodal Interaction},
+ series = {ICMI 2017},
+ year = {2017},
+ isbn = {978-1-4503-5543-8},
+ location = {Glasgow, UK},
+ pages = {230--237},
+ numpages = {8},
+ url = {http://doi.acm.org/10.1145/3136755.3136757},
+ doi = {10.1145/3136755.3136757},
+ acmid = {3136757},
+ publisher = {ACM},
+ address = {New York, NY, USA}
+} 

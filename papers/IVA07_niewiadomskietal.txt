@@ -1,0 +1,15 @@
+@incollection{
+year={2007},
+isbn={978-3-540-74996-7},
+booktitle={Intelligent Virtual Agents},
+volume={4722},
+series={Lecture Notes in Computer Science},
+editor={Pelachaud, Catherine and Martin, Jean-Claude and André, Elisabeth and Chollet, Gérard and Karpouzis, Kostas and Pelé, Danielle},
+doi={10.1007/978-3-540-74997-4_9},
+title={Fuzzy Similarity of Facial Expressions of Embodied Agents},
+url={http://dx.doi.org/10.1007/978-3-540-74997-4_9},
+publisher={Springer Berlin Heidelberg},
+keywords={Embodied Conversational Agents; facial expressions; fuzzy similarity},
+author={Niewiadomski, Radosław and Pelachaud, Catherine},
+pages={86-98}
+}

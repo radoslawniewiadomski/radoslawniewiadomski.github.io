@@ -1,0 +1,16 @@
+@inproceedings{
+ author = {Niewiadomski, Radoslaw and Mancini, Maurizio and Volpe, Gualtiero and Camurri, Antonio},
+ title = {Automated Detection of Impulsive Movements in HCI},
+ booktitle = {Proceedings of the 11th Biannual Conference on Italian SIGCHI Chapter},
+ series = {CHItaly 2015},
+ year = {2015},
+ isbn = {978-1-4503-3684-0},
+ location = {Rome, Italy},
+ pages = {166--169},
+ numpages = {4},
+ url = {http://doi.acm.org/10.1145/2808435.2808466},
+ doi = {10.1145/2808435.2808466},
+ acmid = {2808466},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+}

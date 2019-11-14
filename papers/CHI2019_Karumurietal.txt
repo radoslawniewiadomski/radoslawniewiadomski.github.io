@@ -1,0 +1,18 @@
+@inproceedings{Karumuri:2019,
+ author = {Karumuri, Sukumar and Niewiadomski, Radoslaw and Volpe, Gualtiero and Camurri, Antonio},
+ title = {From Motions to Emotions: Classification of Affect from Dance Movements Using Deep Learning},
+ booktitle = {Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems},
+ series = {CHI EA '19},
+ year = {2019},
+ isbn = {978-1-4503-5971-9},
+ location = {Glasgow, Scotland Uk},
+ pages = {LBW0231:1--LBW0231:6},
+ articleno = {LBW0231},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/3290607.3312910},
+ doi = {10.1145/3290607.3312910},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+

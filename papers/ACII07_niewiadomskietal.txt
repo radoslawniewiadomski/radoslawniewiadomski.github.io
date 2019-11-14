@@ -1,0 +1,15 @@
+@incollection{
+year={2007},
+isbn={978-3-540-74888-5},
+booktitle={Affective Computing and Intelligent Interaction},
+volume={4738},
+series={Lecture Notes in Computer Science},
+editor={Paiva, AnaC.R. and Prada, Rui and Picard, RosalindW.},
+doi={10.1007/978-3-540-74889-2_2},
+title={Model of Facial Expressions Management for an Embodied Conversational Agent},
+url={http://dx.doi.org/10.1007/978-3-540-74889-2_2},
+publisher={Springer Berlin Heidelberg},
+keywords={Embodied conversational agents; social context; facial expressions},
+author={Niewiadomski, Radosław and Pelachaud, Catherine},
+pages={12-23}
+}

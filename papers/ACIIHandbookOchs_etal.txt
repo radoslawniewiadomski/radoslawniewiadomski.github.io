@@ -1,0 +1,10 @@
+@misc {
+      author = "Magalie Ochs and Radoslaw Niewiadomski and Catherine Pelachaud",
+      editor = "Rafael Calvo and Sidney D'Mello and Jonathan Gratch and Arvid Kappas", 
+      title = "Facial Expressions of Emotions for Virtual Characters",
+      year = "2014",
+      month = "07",
+      publisher = "Oxford University Press",
+      isbn = "9780199942237",
+      url = "http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199942237.001.0001/oxfordhb-9780199942237-e-028"
+}

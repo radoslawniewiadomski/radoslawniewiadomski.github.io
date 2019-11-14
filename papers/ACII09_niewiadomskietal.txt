@@ -1,0 +1,7 @@
+@INPROCEEDINGS{
+author={Niewiadomski, R. and Hyniewska, S. and Pelachaud, C.},
+booktitle={Affective Computing and Intelligent Interaction and Workshops, 2009. ACII 2009. 3rd International Conference on},
+title={Evaluation of multimodal sequential expressions of emotions in ECA},
+year={2009},
+pages={1-7}
+}

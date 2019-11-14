@@ -1,0 +1,15 @@
+@incollection{
+year={2012},
+isbn={978-3-642-33196-1},
+booktitle={Intelligent Virtual Agents},
+volume={7502},
+series={Lecture Notes in Computer Science},
+editor={Nakano, Yukiko and Neff, Michael and Paiva, Ana and Walker, Marilyn},
+doi={10.1007/978-3-642-33197-8_24},
+title={Towards Multimodal Expression of Laughter},
+url={http://dx.doi.org/10.1007/978-3-642-33197-8_24},
+publisher={Springer Berlin Heidelberg},
+keywords={multimodal animation; expression synthesis; laughter; intensity},
+author={Niewiadomski, Radosław and Pelachaud, Catherine},
+pages={231-244}
+}

@@ -1,0 +1,15 @@
+@incollection{
+year={2010},
+isbn={978-3-642-15891-9},
+booktitle={Intelligent Virtual Agents},
+volume={6356},
+series={Lecture Notes in Computer Science},
+editor={Allbeck, Jan and Badler, Norman and Bickmore, Timothy and Pelachaud, Catherine and Safonova, Alla},
+doi={10.1007/978-3-642-15892-6_29},
+title={Warmth, Competence, Believability and Virtual Agents},
+url={http://dx.doi.org/10.1007/978-3-642-15892-6_29},
+publisher={Springer Berlin Heidelberg},
+keywords={Virtual agent; Believability; Warmth; Competence; Personification; Emotional expressions},
+author={Niewiadomski, Radosław and Demeure, Virginie and Pelachaud, Catherine},
+pages={272-285}
+}

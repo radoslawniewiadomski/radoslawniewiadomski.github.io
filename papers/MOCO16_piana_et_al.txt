@@ -1,0 +1,19 @@
+@inproceedings{Piana2016,
+ author = {Piana, Stefano and Coletta, Paolo and Ghisio, Simone and Niewiadomski, Radoslaw and Mancini, Maurizio and Sagoleo, Roberto and Volpe, Gualtiero and Camurri, Antonio},
+ title = {Towards a Multimodal Repository of Expressive Movement Qualities in Dance},
+ booktitle = {Proceedings of the 3rd International Symposium on Movement and Computing},
+ series = {MOCO '16},
+ year = {2016},
+ isbn = {978-1-4503-4307-7},
+ location = {Thessaloniki, GA, Greece},
+ pages = {10:1--10:8},
+ articleno = {10},
+ numpages = {8},
+ url = {http://doi.acm.org/10.1145/2948910.2948931},
+ doi = {10.1145/2948910.2948931},
+ acmid = {2948931},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Automated analysis of movement qualities, Dance, Expressive movement, Multimodal repository}
+}
+ 

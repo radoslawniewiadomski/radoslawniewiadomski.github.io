@@ -1,0 +1,11 @@
+@proceedings{2018:3212721,
+ title = {MOCO '18: Proceedings of the 5th International Conference on Movement and Computing},
+ year = {2018},
+ isbn = {978-1-4503-6504-8},
+ location = {Genoa, Italy},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ author={Camurri, A. and Volpe, G. and Mancini, M. and Niewiadomski, R. and Piana, S.},
+ url={https://portalparts.acm.org/3220000/3212721/fm/frontmatter.pdf}
+}
+

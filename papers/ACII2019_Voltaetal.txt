@@ -1,0 +1,14 @@
+@INPROCEEDINGS{8925521,
+
+  author={E. {Volta} and R. {Niewiadomski} and T. {Olugbade} and C. {Gilio} and E. {Cocchi} and N. {Berthouze} and M. {Gori} and G. {Volpe}},
+
+  booktitle={2019 8th International Conference on Affective Computing and Intelligent Interaction (ACII)}, 
+
+  title={Analysis of cognitive states during bodily exploration of mathematical concepts in visually impaired children}, 
+
+  year={2019},
+
+  doi = {10.1109/ACII.2019.8925521},
+
+  pages={1-7}
+}

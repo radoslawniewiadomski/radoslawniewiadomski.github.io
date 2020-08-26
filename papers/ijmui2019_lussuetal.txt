@@ -5,11 +5,10 @@ and Volpe, Gualtiero
 and Camurri, Antonio",
 title="The role of respiration audio in multimodal analysis of movement qualities",
 journal="Journal on Multimodal User Interfaces",
-year="2019",
-month="Apr",
-day="11",
+year="2020",
 issn="1783-8738",
+volume = "14",
+pages = "1-15",
 doi="10.1007/s12193-019-00302-1",
 url="https://doi.org/10.1007/s12193-019-00302-1"
 }
-

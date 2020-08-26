@@ -1,0 +1,11 @@
+@ARTICLE{Larradet2020,
+AUTHOR={Larradet, Fanny and Niewiadomski, Radoslaw and Barresi, Giacinto and Caldwell, Darwin G. and Mattos, Leonardo S.},   
+TITLE={Toward Emotion Recognition From Physiological Signals in the Wild: Approaching the Methodological Issues in Real-Life Data Collection},      
+JOURNAL={Frontiers in Psychology},      
+VOLUME={11},      
+PAGES={1111},     	
+YEAR={2020},      
+URL={https://www.frontiersin.org/article/10.3389/fpsyg.2020.01111},       
+DOI={10.3389/fpsyg.2020.01111},      
+ISSN={1664-1078},   
+}

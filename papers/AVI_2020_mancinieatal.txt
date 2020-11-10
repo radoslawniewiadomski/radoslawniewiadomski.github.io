@@ -1,0 +1,15 @@
+@inproceedings{mancini2020,
+author = {Mancini, Maurizio and Gallagher, Conor Patrick and Niewiadomski, Radoslaw and Huisman, Gijs and Bruijnes, Merijn},
+title = {Introducing Artificial Commensal Companions},
+year = {2020},
+isbn = {9781450375351},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+doi = {10.1145/3399715.3399958},
+booktitle = {Proceedings of the International Conference on Advanced Visual Interfaces},
+articleno = {89},
+numpages = {3},
+keywords = {robot, companion, hci, commensality, nonverbal, food, eating, multimodal interaction},
+location = {Salerno, Italy},
+series = {AVI '20}
+}

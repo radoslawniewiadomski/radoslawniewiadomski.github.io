@@ -1,0 +1,18 @@
+@ARTICLE{Olugbade2020,
+
+  author={T. {Olugbade} and J. {Newbold} and R. {Johnson} and E. {Volta} and P. {Alborno} and R. {Niewiadomski} and M. {Dillon} and G. {Volpe} and N. {Bianchi-Berthouze}},
+
+  journal={IEEE Transactions on Affective Computing}, 
+
+  title={Automatic Detection of Reflective Thinking in Mathematical Problem Solving based on Unconstrained Bodily Exploration}, 
+
+  year={2020},
+
+  volume={},
+
+  number={},
+
+  pages={1-1},
+
+  doi={10.1109/TAFFC.2020.2978069}}
+

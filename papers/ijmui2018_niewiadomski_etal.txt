@@ -1,0 +1,18 @@
+@Article{Niewiadomski2018,
+author="Niewiadomski, Radoslaw
+and Mancini, Maurizio
+and Cera, Andrea
+and Piana, Stefano
+and Canepa, Corrado
+and Camurri, Antonio",
+title="Does embodied training improve the recognition of mid-level expressive movement qualities sonification?",
+journal="Journal on Multimodal User Interfaces",
+year="2018",
+month="Dec",
+day="04",
+abstract="This research is a part of a broader project exploring how movement qualities can be recognized by means of the auditory channel: can we perceive an expressive full-body movement quality by means of its interactive sonification? The paper presents a sonification framework and an experiment to evaluate if embodied sonic training (i.e., experiencing interactive sonification of your own body movements) increases the recognition of such qualities through the auditory channel only, compared to a non-embodied sonic training condition. We focus on the sonification of two mid-level movement qualities: fragility and lightness. We base our sonification models, described in the first part, on the assumption that specific compounds of spectral features of a sound can contribute to the cross-modal perception of a specific movement quality. The experiment, described in the second part, involved 40 participants divided into two groups (embodied sonic training vs. no training). Participants were asked to report the level of lightness and fragility they perceived in 20 audio stimuli generated using the proposed sonification models. Results show that (1) both expressive qualities were correctly recognized from the audio stimuli, (2) a positive effect of embodied sonic training was observed for fragility but not for lightness. The paper is concluded by the description of the artistic performance that took place in 2017 in Genoa (Italy), in which the outcomes of the presented experiment were exploited.",
+issn="1783-8738",
+doi="10.1007/s12193-018-0284-0",
+url="https://doi.org/10.1007/s12193-018-0284-0"
+}
+

@@ -1,0 +1,9 @@
+@INPROCEEDINGS{7344643,
+author={R. Niewiadomski and Y. Ding and M. Mancini and C. Pelachaud and G. Volpe and A. Camurri},
+booktitle={Affective Computing and Intelligent Interaction (ACII), 2015 International Conference on},
+title={Perception of intensity incongruence in synthesized multimodal expressions of laughter},
+year={2015},
+pages={684-690},
+keywords={computer animation;emotion recognition;face recognition;learning (artificial intelligence);multi-agent systems;psychology;visual perception;animation synthesis;auditory modality;body movement;expression regulation;facial expression;intensity incongruence perception;laughter multimodal expression;machine learning algorithm;virtual agent;visual modality;Animation;Context;Electronic mail;Face;Machine learning algorithms;Torso;Visualization;incongruence;laughter;multimodal expressions;virtual agents},
+doi={10.1109/ACII.2015.7344643},
+month={Sept},}

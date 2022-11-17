@@ -1,0 +1,16 @@
+@inproceedings{,
+author = {Niewiadomski, Radoslaw and De Lucia, Gabriele and Grazzi, Gabriele and Mancini, Maurizio},
+title = {Towards Commensal Activities Recognition},
+year = {2022},
+isbn = {9781450393904},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3536221.3556566},
+doi = {10.1145/3536221.3556566},
+booktitle = {Proceedings of the 2022 International Conference on Multimodal Interaction},
+pages = {549–557},
+numpages = {9},
+keywords = {facial expressions, activity recognition, social signal processing, computational commensality},
+location = {Bengaluru, India},
+series = {ICMI '22}
+}

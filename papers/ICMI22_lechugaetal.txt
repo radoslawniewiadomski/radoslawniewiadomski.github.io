@@ -1,0 +1,16 @@
+@inproceedings{,
+author = {Lechuga Redondo, Maria Elena and Niewiadomski, Radoslaw and Francesco, Rea and Sciutti, Alessandra},
+title = {Comfortability Recognition from Visual Non-Verbal Cues},
+year = {2022},
+isbn = {9781450393904},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3536221.3556631},
+doi = {10.1145/3536221.3556631},
+booktitle = {Proceedings of the 2022 International Conference on Multimodal Interaction},
+pages = {207–216},
+numpages = {10},
+keywords = {Affective Computing, Human-Agent Interaction, Comfortability, Multimodal Emotion Recognition},
+location = {Bengaluru, India},
+series = {ICMI '22}
+}

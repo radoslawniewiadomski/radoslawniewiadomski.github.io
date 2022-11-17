@@ -1,0 +1,16 @@
+@inproceedings{,
+author = {Ceccaldi, Eleonora and De Lucia, Gabriele and Niewiadomski, Radoslaw and Volpe, Gualtiero and Mancini, Maurizio},
+title = {Social Interaction Data-Sets in the Age of Covid-19: A Case Study on Digital Commensality},
+year = {2022},
+isbn = {9781450397193},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3531073.3531176},
+doi = {10.1145/3531073.3531176},
+booktitle = {Proceedings of the 2022 International Conference on Advanced Visual Interfaces},
+articleno = {23},
+numpages = {5},
+keywords = {social signal processing, covid-19, data-sets, commensality, activity recognition},
+location = {Frascati, Rome, Italy},
+series = {AVI 2022}
+}

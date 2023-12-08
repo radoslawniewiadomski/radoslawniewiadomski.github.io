@@ -22,7 +22,7 @@
 #news_iframe_scroll iframe 
 		{
 		width: 90%;
-		height: 100px; /* IF YOU EDIT HEIGHT EDIT THE SCROLLING SCRIPT HEIGHT!!!! */
+		height: 120px; /* IF YOU EDIT HEIGHT EDIT THE SCROLLING SCRIPT HEIGHT!!!! */
 		display: block;
 		margin: 0px;
 		padding: 0px;

@@ -1,0 +1,8 @@
+@ARTICLE{lechuga2023,
+ author = {Redondo, Maria Elena Lechuga and Niewiadomski, Radoslaw and Rea, Francesco and Incao, Sara and Sandini, Giulio  and Sciutti, Alessandra},
+ TITLE={Comfortability Analysis Under a Human–Robot Interaction Perspective},      
+ JOURNAL={International Journal of Social Robotics},      
+ YEAR={2023},      
+ DOI={10.1007/s12369-023-01026-9},      
+ ISSN={1875-4805}
+}

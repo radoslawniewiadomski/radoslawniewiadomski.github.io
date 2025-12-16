@@ -1,0 +1,359 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head>
+
+ 
+  <title>Research</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" type="text/css" href="style.css" media="screen">
+  <meta name="robots" content="follow,index">  
+ </head><body>
+
+
+<div id="container">
+<div id="navcontainer">
+<ul id="navlist">
+<li><a href="index.html">Home</a></li>
+<li><a href="research.html">Research</a></li>
+<li><a href="papers.html">Publications</a></li>
+<li><a href="others.html">Datasets</a></li>
+</ul>
+</div>
+   
+
+<table border=0>
+<tr VALIGN="top">
+<td>
+My research interests are related to Affective and Social Computing. In my work, I model complex dynamic phenomena such as nonverbal emotional communication and social relations, applying them to create emotionally intelligent interactive systems capable of understanding human nonverbal behavior.
+<br> 
+<br> 
+My research approach is characterized by strong interdisciplinarity: I apply state-of-the-art methods in Artificial Intelligence,
+ such as Soft Computing and Machine Learning, and collaborate closely with psychologists. My work often originates from the results of Human Science studies 
+(e.g., annotation of expressive behaviors, theoretical models, emotion elicitation protocols, etc.) and models them using fuzzy logic, machine/deep learning methods.
+<br> 
+<br> 
+These works have diverse application areas, including social skills training, the creation of socially intelligent virtual assistants and companions (e.g., for elderly people), therapy and rehabilitation, social inclusion (e.g., for autistic and visually impaired people), entertainment (e.g., video games), and, in general, the creation of novel interactive interfaces.
+<br>	
+</td>
+<td>
+<div class="menu">
+<ul>
+<li><a href="#recognition">Recognition of Expessive Behaviors</a></li>
+<li><a href="#laughter">Laughter Computing</a></li>
+<li><a href="#Synthesis">Synthesis of Expressive Behaviors</a></li>
+</ul>
+</div>	
+
+</td>
+</tr>
+</table>
+ 
+
+<BR><BR>
+
+<b><a name="recognition"></a></b>
+<H1>Analysis and recognition of the expressive behaviors</H1>
+
+My recent research is focused on analysis of expressive qualities of the human movement. The expressive quality, that is “how a movement is realized”, may convey an emotional or social content, can be a form of artistic expression (e.g., music and dance performances) or an important aspect of sport performance (e.g., kata in martial arts). The methodology, that I  apply, consists of: 
+<ul>
+<li>
+1) building large multimodal corpora of nonverbal behaviors performed by a set of individuals which are perceptually validated by human observers, 
+</li>
+<li>
+2) extracting high-level easily interpretable features from captured data and 
+</li>
+<li>
+3) applying supervised machine learning algorithms. 
+</li>
+</ul>
+In my research, I explore the large spectrum of data sources: 3D positions, inertial, physiological, video and audio data, as well as various multimodal fusions e.g., kinematics and audio data. 
+Below, I briefly present the main works I realized in this direction.
+
+
+<BR><BR>
+<H3>Emotion recognition in Hand-Object Interaction</H3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6bof8KTy6Mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<BR><BR>
+<H3>Movement quality recognition from respiration</H3>
+
+<table border=0>
+<tr>
+<td >
+
+<iframe class="embed-responsive-item" id="ytplayer" type="text/html" height="208" width="332" src="https://www.youtube.com/embed/wtRudXarx0Y?&autoplay=1&loop=1&rel=0&showinfo=0&color=white&iv_load_policy=3" frameborder="0" allowfullscreen>
+</iframe>
+
+</td>
+<td width="10"></td>
+<td align="justify">
+The aim of this work was to develop novel techniques for movement quality recognition from the respiration audio. Respiration is of paramount importance for body movement. 
+Starting from this observation we developed two methods that use the audio respiration signal captured by a standard microphone placed near the mouth. 
+Both approaches use supervised machine learning for classification. 
+<BR>
+The first approach consisted of the classification of a set of acoustic features such as Mel-frequency Cepstrum Coefficients (MFCC) extracted from exhalations of a person performing full body movements with different expressive qualities. 
+<BR>
+In the second approach, the intrapersonal synchronization between the respiration and kinetic energy of body movements was used to distinguish between the two qualities. To this aim, first, the degree of synchronization between two modalities was computed using the Event Synchronization algorithm. Later, the output of the Event Synchronization was used for classification. Both approaches were evaluated on the 15 minutes multimodal corpus composed of short performances by three professional dancers. 
+
+The results of this work were published in 
+<a href="./papers/HBU2016_lussuetal.pdf">[IC40]</a>.
+</td>
+</tr>
+</table>
+
+<BR><BR>
+<H3>Movement quality recognition from using wearable sensors and multimodal fusion</H3>
+
+In this work, we developed a low-intrusive approach to the recognition of expressive movement qualities to be used in ecological contexts, e.g., during artistic performances. The work is another example of applying supervised machine learning to the data of human nonverbal behavior. In this case, we used the data captured by four wearable devices, two Inertial Movement Units (IMU) and two electromyographs (EMG), placed on the forearms. 
+<BR>
+In the scope of this work, we created a new dataset containing 
+<a href="http://dance.dibris.unige.it/index.php/dance-datasets/dance-dataset-1">150 segments </a>
+showing different degrees of two expressive qualities by 13 dancers. Their short performances were ranked in a perceptive study with the participation of the domain experts. A set of hand-crafted features computed from IMU and EMG data was used with supervised machine learning techniques. 
+<br>
+The results of this work were published in 
+<a href="http://www.infomus.org/people/niewiadomski/papers/ICMI2017_Niewiadomskietal.pdf">[IC41]</a> and
+<a href="https://link.springer.com/content/pdf/10.1007%2Fs12193-018-0284-0.pdf">[IJ11]</a>.
+<BR><BR>
+
+<table>
+<tbody>
+<tr>
+<td align="center"><strong>Lightness</strong></td>
+<td align="center"><strong>Fragility</strong></td>
+</tr>
+<tr>
+<td align="center"><iframe src="https://www.youtube.com/embed/qVM_8DBEyHU" frameborder="0" width="392" height="222" allowfullscreen="allowfullscreen" allow="autoplay; encrypted-media"></iframe></td>
+<td align="center"><iframe src="https://www.youtube.com/embed/lVgZODt7VdI" frameborder="0" width="392" height="222" allowfullscreen="allowfullscreen" allow="autoplay; encrypted-media"></iframe></td>
+</tr>
+</table>
+
+<H3>Movement quality computation of full-body physical activities</H3>
+
+
+Several physical activities e.g, various sport disciplines, dancing and playing musical instruments consist of predefined sequences of movements. The same sequences can be performed in a wide range of ways that can be distinguished in terms of subtle spatial and temporal perturbations of the movement. Even a non-expert observer can distinguish between a top-level and an average performance. The difference is in the quality of the performance.
+<BR>
+In this work, we aimed to develop a framework for the computation of movement quality in full-body physical activities. The framework is based on several levels of computation complexity including the low-level features (e.g., a limb velocity) which are the components of three high-level components: Biomechanical Analysis, Shape and Intrapersonal-Synchronization. In the final step, the vector of high-level features is used to compute a global quantitative assessment of movement quality.
+<BR>
+A concrete implementation of this framework was proposed for Karate. 
+For this purpose, <a href="http://www.infomus.org/karate/eyesweb_dataset_karate_eng.php">a new corpus</a> of motion capture data was recorded, which contains several kata  performed by seven athletes. Next a set high-level features were proposed, which correspond to different aspects of the good kata performance such as movement stability, Kime, and coordination. To validate this system, the results were compared with the quality scores given by fourteen karate experts. 
+<br>
+More about this research can be found in 
+<a href="http://www.infomus.org/people/niewiadomski/papers/TIIS17_niewiadomskietal_draft.pdf">[IJ12]</a> and 
+<a href="http://www.infomus.org/people/niewiadomski/papers/INTETAIN15_kolykhalova_etal.pdf">[IC31]</a>.
+<BR>
+<BR>
+
+<table border=0>
+<tr><td>
+<iframe width="800" height="200" src="https://www.youtube.com/embed/DqSRjZAXRos" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen">
+</iframe>
+</td></tr>
+<tr><td>
+<iframe width="800" height="200" src="https://www.youtube.com/embed/bWd3aFDsdlg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen">
+</iframe>
+</td></tr>
+</table>
+
+<BR><BR>
+<BR><BR>
+
+<b><a name="laughter"></a></b>
+<H1>Laughter Computing</H1>
+
+Laughter is an important aspect of human-human communication. Laughter is characterized by a complex expressive behavior that involves most of modalities. It conveys various meanings and accompanies different emotions, such as amusement, relief and embarrassment. Because of its relevance for human-human interaction, the affective computing community focuses attention on laughter. In particular, in the <a href="http://www.ilhaire.eu">FP7 EU Project ILHAIRE</a>, I worked on different aspects of laughter computing from a creation of a multimodal corpus, full-body laughter recognition and synthesis, to evaluation of an interaction with a laughter-aware virtual agent. 
+
+<H3>Laughter recognition from body movements</H3> 
+
+The goal was to detect the laughter from full-body movements using supervised machine learning. To realize this aim, a large corpus of laughter episodes, which is called <a href="http://www.infomus.org/ILHAIRE/mmli/">Multimodal Multiperson Corpus of Laughter in Interaction</a>, was recorded using innovative techniques of laughter induction. It is composed of full-body motion capture data of subjects who participated in several social activities, e.g., playing social games such as “barbichette” or Pictionary game, etc. Applying these techniques allowed us to collect a large variety of spontaneous nonverbal behaviors including hilarious laughter. The corpus contains the data of 16 participants. The total duration of the extracted episodes is 70 minutes. 
+<br>
+Next, thirteen algorithms for the extraction of the body movements were proposed, each of them corresponds to one type of movement observed in laughter expressions such as shoulder shaking, or torso leaning. In consequence, 13-feature vectors describing each segment of data were used for the binary classification task with machine learning algorithms, e.g., Support Vector Machines, Naïve Bayes and Random Forest. We also compared the results of automated classification with the ratings of human observers for the same set of laughter and non-laughter segments. The comparison showed that the performance of our approach was comparable with that of humans. In the last step, this approach was downscaled and a vision based system prototype (based on RGB and depth-map images) for automated laughter detection in real-time was developed.
+
+The results of this work were published in 
+<a href="http://www.infomus.org/people/niewiadomski/papers/THMS16_niewiadomskietal_draft.pdf">[IJ10]</a> and 
+<a href="http://www.infomus.org/people/niewiadomski/papers/HBU2013_niewiadomskietal.pdf">[IC28]</a>.
+
+<BR>
+<BR>
+Extracts from the data collection sessions.
+<table border=0>
+<tr><td>
+<iframe class="embed-responsive-item" id="ytplayer" type="text/html" height="208" width="332" src="https://www.youtube.com/embed/aWYufc_xPOg?&autoplay=1&loop=1&rel=0&showinfo=0&color=white&iv_load_policy=3" frameborder="0" allowfullscreen>
+</iframe>
+</td>
+<td>
+<iframe class="embed-responsive-item" id="ytplayer" type="text/html" height="208" width="332" src="https://www.youtube.com/embed/Cpuru08_MJg?&autoplay=1&loop=1&rel=0&showinfo=0&color=white&iv_load_policy=3" frameborder="0" allowfullscreen>
+</iframe>
+</td>
+</tr>
+</table>
+<BR><BR>
+			
+<H3>Full-body laughter synthesis</H3>
+
+In this work I aimed to develop full-body laughter visual synthesis. For this purpose, I studied the repetitive body movements of shoulders and of the trunk. The spectral analysis of the signals corresponding to body parts displacements disclosed the different frequency intervals, which characterize each type of movement. Based on this, I proposed a model for the procedural synthesis of the body movements. The model allows an animator to generate a continuum of plausible full-body animations of laughter by controlling just two high-level parameters. In the background, the animation of a virtual character (e.g., shoulders movement) is controlled with a set of harmonics. The high-level parameters used by animator are mapped to the harmonics parameters. 
+
+The more detailed description can be found in 
+<a href="http://www.infomus.org/people/niewiadomski/papers/ICMI2014_Niewiadomskietal.pdf">[IC30]</a>.
+
+<BR><BR>
+
+<H3>Interaction with laughter-aware virtual agent</H3>
+
+<table border=0>
+<tr>
+<td align="justify">
+The aim was to create and evaluate a virtual agent which is able interact with a human, detect his laughs and respond appropriately (i.e., producing synthesized laughter). The agent makes the decision by taking into account the information on the human’s behavior and the context. The agent is equipped in 1) laughter detection module from audio, 2) decision making module based on GMM and 3) synthesis module that uses the retargeted facial mocap data and synthesized audio laughter.   
+<br>
+<br>
+A significant attention was dedicated to the evaluation of the system. Twenty one participants watched comedy movies in the presence of the laughter-aware agent. They were asked to evaluate, using a set of questionnaires, their interaction with the agent in two experimental conditions: 1) pre-scripted and 2) interactive. In the first condition, the agent only laughs in the key points of the video. Whereas, in the interactive condition, the agent laughs by taking into account the behavior of the user and the context. According to the results, the laughter-aware agent increased the level of amusement perceived by humans and created the notion of a shared social experience. Thus, such agent can be helpful in eliciting positive emotions in humans. 
+</td>
+<td width="10"></td>
+<td>
+<iframe class="embed-responsive-item" id="ytplayer" type="text/html" height="208" width="332" src="https://www.youtube.com/embed/fElP2_c8vJU?&autoplay=1&loop=1&rel=0&showinfo=0&color=white&iv_load_policy=3" frameborder="0" allowfullscreen>
+</iframe>
+</td>
+</tr>
+</table>
+The results of this work were published in 
+<a href="http://www.infomus.org/people/niewiadomski/papers/AAMAS13_niewiadomskietal.pdf">[IC26]</a> and 
+<a href="http://link.springer.com/article/10.1007%2Fs11031-014-9461-y">[IJ9]</a>.
+
+<BR><BR>
+<BR><BR>
+
+<b><a name="Synthesis"></a></b>
+
+<H1>Modeling expressive behaviors in virtual agents</H1>
+
+Several works focused on creation of social and expressive virtual agents. Being the metaphor of human behavior, these agents are expected to allow humans to interact intuitively and naturally with computer systems. The creation of such agents includes modeling complex nonverbal behaviors with the aim of extending their communicative and social skills. In this context, my work focused on 
+<ul>
+<li>
+1) modelling facial and full-body expressions of emotions, 
+</li>
+<li>
+2) modelling nonverbal behaviors in social contexts, and 
+</li>
+<li>
+3) evaluating users’ experience and perception of social expressive agents.
+</li>
+</ul>
+Proposed models are usually based on the high-level information provided by Emotion Psychologists’ (manual annotation, theoretical models) and computational intelligence methods such as fuzzy logic to control the synthesis of nonverbal behaviors. The results (i.e., animations computed) were validated through perceptive studies with the use of appropriate questionnaires.
+
+<BR><BR>
+
+<H3>Generation of complex facial expressions</H3>
+
+The so-called complex expressions are behaviors transmitting several emotion related signals at a time, e.g., masking of a felt emotional state by another unfelt emotion (a fake one). Different types of complex expressions can be distinguished by their displays and meanings. 
+<BR>
+I have proposed a model for complex facial expressions, which is based on fuzzy methods and discrete emotions theory. For this purpose, I used a face partition approach for modeling fake expressions, inhibited expressions, superposition and masking. Each expression was defined by a set of eight areas of the face while each part of the face displays an emotion. For example, in the expression of "sadness masked by happiness", sadness is shown on the eyebrows and upper eyelids area while happiness is displayed on the lips area. 
+<BR>
+The algorithm uses fuzzy rules to assign emotions to different facial areas. A hierarchical fuzzy system was defined for each type of complex expressions using the expert knowledge. Next, I proposed an novel approach for the comparison of facial expressions based on the notion of fuzzy similarity. Each facial expression is described by a set of fuzzy sets, where each fuzzy set corresponds to one local parameter. Fuzzy M-measure of resemblance (Bouchon-Meunier et al., 1996) is used to compute the degree of visual resemblance of two expressions. 
+<BR>
+The details of this approach can be found in
+<a href="http://www.infomus.org/people/niewiadomski/papers/ijhcs2010_niewiadomski_draft.pdf">[IJ2]</a>,
+<a href="http://www.infomus.org/people/niewiadomski/papers/IVA07_niewiadomskietal.pdf">[IC7]</a> and
+<a href="http://www.infomus.org/people/niewiadomski/papers/IVA06_buisineetal.pdf">[IC4]</a>, which received the Best Paper Award in the International Conference of Intelligent Virtual Agents in 2006.
+
+<BR><BR>
+
+<H3>Generation of multimodal expressions of emotions</H3>
+
+<table border=0>
+<tr>
+<td>
+
+<iframe width="300" height="190" src="https://www.youtube.com/embed/TmEvknLfvuk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</td>
+<td width="10"></td>
+<td align="justify">
+Studies by Keltner et al. (1995) and Scherer (2001) show that several emotions are expressed by a sequence of different nonverbal behaviors which are displayed over different modalities (face, gaze and head movements, gestures, posture), and are arranged in a certain interval of time. Consequently, I proposed a model for the generation of such multimodal expressions of emotions. 
+This approach consists of 1) manual annotation of video corpus, 2) definition of a symbolic representation that describes the dynamics of sequential multimodal expressions, and 3) the algorithm that generates emotional displays from the above description. 
+<BR>
+In detail, a high-level symbolic representation describes temporal relations between signals of manually annotated multimodal displays. 
+It is used to generate a new multimodal expression by appositely created algorithm, which selects a coherent subset of the signals, their durations, and solves the signal constraints defined in the advance by the annotator. The model was evaluated in a series of perceptive studies that show its efficiency in communicating a large spectrum of emotional states. 
+</td>
+</table> 
+The details of the model and the results of the evaluations can be found in the following papers:
+<a href="http://www.infomus.org/people/niewiadomski/papers/tac2011_niewiadomski_draft.pdf">[IJ4]</a>,
+<a href="http://www.infomus.org/people/niewiadomski/papers/KEER2010_bleackleyetal.pdf">[IC13]</a> and
+<a href="http://www.infomus.org/people/niewiadomski/papers/ACII09_niewiadomskietal.pdf">[IC12]</a>.
+
+
+<BR><BR>
+<BR><BR>
+
+<H3>Modelling facial expressions in social context</H3>
+
+The social expressive agents not only need to express their emotional states but also they have to adapt their expressions to a given social context. It was shown that inadequate emotion expressions in agents lead to lower evaluations (Becker et al., 2005). I proposed a model of facial expressions management that enables the agent to adapt its facial behavior to interpersonal relations that she is involved. For this purpose, the manual annotation of a video corpus was performed, and the annotation results were used to define a set of rules. The rules specify, which expression to be displayed, according to the valence of the felt emotion and the variables defining interpersonal relationship (i.e., social power and social distance). Consequently, the agent is able to decide, for example, to inhibit or to mask its negative emotions in front of the interlocutor if its position (i.e., social power) is low, or to express freely positive emotions in front of an intimate (i.e., social distance is low). 
+
+The details of this work are presented in 
+<a href="http://www.infomus.org/people/niewiadomski/papers/ijhcs2010_niewiadomski_draft.pdf">[IJ2]</a> and
+<a href="http://www.infomus.org/people/niewiadomski/papers/ACII07_niewiadomskietal.pdf">[IC6]</a>.
+
+<BR><BR>
+
+<H3>Modelling different smile expressions</H3>
+
+<table border=0>
+<tr>
+<td>
+
+Smile has many different meanings, depending on its morphology and temporal characteristics. In the collaboration with Magalie Ochs (Telecom ParisTech) and Paul Brunet (Queen's University Belfast), we have proposed an algorithm to generate smiles for three different meanings: a sign of amusement, embarrassment, and politeness. 
+<br><br>
+In more details, the CART algorithm was applied to the dataset containing the facial expressions of 3 smile types performed by 350 human participants. The resulting decision tree was used by the agent to generate the smile that corresponds to the intention she is supposed to communicate. The branches of the tree corresponds to morphological and temporal features of the created smile expression and the leaves correspond to the intended smile meanings. 
+
+This algorithm and its evaluation are presented in the following papers
+<a href="http://www.infomus.org/people/niewiadomski/papers/CP2011_ochsetal_draft.pdf">[IJ6]</a> and
+<a href="http://www.infomus.org/people/niewiadomski/papers/sspw2010_niewiadomskietal.pdf">[IC18]</a>.
+
+</td>
+<td width="10"></td>
+<td>
+
+<iframe width="400" height="340" src="https://www.youtube.com/embed/CRJmleAalTs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</td>
+</table> 
+
+<BR><BR>
+
+<H3>Identification of synthetized action units</H3>
+
+<table border=0>
+<tr>
+<td align="justify">
+Several cues are used by humans to identify the emotions from the others faces. One of them is the presence of wrinkles. Single wrinkles are the markers of several action units, e.g., a frown (AU4) is associated with the presence of vertical wrinkles on the front. The aim of this work was to study the 1) identification and perception of single animated action units and 2) decoding and perception of full-face synthesized expressions.
+<BR>
+First, a hybrid approach for animation synthesis was used that combines data-driven and procedural animations with synthesized wrinkles generated using a bump mapping method. By using such an animation technique, animations of single action units and the full face movements of two virtual characters were created. Next, the perceptive evaluation was conducted of the role of the presentation mode (image vs. animation), intensity and the presence wrinkles in single actions and the evaluation of full face context-free expressions. 
+Our results showed that intensity and presentation mode influence the identification of single action units. At the same time, wrinkles are useful in the identification of a single action unit and influence the perceived meaning (i.e., perceived emotion) attached to the animation. Thus, adding the wrinkles alters the perceived meaning of the whole animation.
+
+The results of this work were published in:
+<a href="http://www.infomus.org/people/niewiadomski/papers/ACMTAP_niewiadomskietal_draft.pdf">IJ8</a> and
+<a href="http://www.infomus.org/people/niewiadomski/papers/CASA2012_niewiadomskietal.pdf">IC22</a>.
+
+</td>
+<td width="10"></td>
+<td>
+
+<iframe width="285" height="190" src="https://www.youtube.com/embed/o62-xfm6RVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</td>
+</table> 
+
+<BR><BR>
+
+<H3>Analyzing believability and plausibleness of virtual agent expressive behaviors</H3>
+
+Using the methodology of perceptual studies, we analyzed the influence of plausible and socially appropriate affective expressions on agent believability. We also investigated how people judge the believability of the agent, and whether it provokes social reactions of humans toward the agent. In the study, the participants were asked to evaluate different sequences of prescribed behaviors by virtual agents in terms of believability, warmth and competence. The virtual agents shows a sequence of verbal and nonverbal emotional behaviors. We distisnguished plausible and appropriate expressions, and we found that inappropriate but plausible expressions were perceived more negativelly than implausible ones. 
+Additionally, we found that emotional behavior of agents is more important when judging their believability than the quality of animation. 
+<BR><BR>
+The second research question was related to the social perception of virtual agents. By applying a two/dimensional model of social perception, we showed that perceived believability of a virtual agent is strongly related to socio-cognitive dimensions of warmth and competence. This work was presented at the International Conference on Intelligent Virtual Agents, and won the Best Paper Award.
+
+More details in 
+<a href="http://www.infomus.org/people/niewiadomski/papers/MIT2011_demeureetal_draft.pdf">IJ5</a> and
+<a href="http://www.infomus.org/people/niewiadomski/papers/CASA2012_niewiadomskietal.pdf">IC17</a>.
+
+<br><br>
+
+</div>
+</div></body></html>

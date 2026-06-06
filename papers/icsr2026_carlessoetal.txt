@@ -1,0 +1,27 @@
+@InProceedings{10.1007/978-981-95-2379-5_51,
+author="Serena, Carlesso
+and Ismail, Abdul Kader Mohamed
+and Giuseppe, Di Cesare
+and Alessandra, Sciutti
+and Radoslaw, Niewiadomski",
+editor="Staffa, Mariacarla
+and Cabibihan, John-John
+and Siciliano, Bruno
+and Ge, Shuzhi Sam
+and Bodenhagen, Leon
+and Tapus, Adriana
+and Rossi, Silvia
+and Cavallo, Filippo
+and Fiorini, Laura
+and Matarese, Marco
+and He, Hongsheng",
+title="Exploring New Vitality Forms in Human-Robot Interaction",
+booktitle="Social Robotics + AI",
+year="2026",
+publisher="Springer Nature Singapore",
+address="Singapore",
+pages="590--597",
+abstract="Humans communicate their internal psychological and affective states through movement, which varies in the form with which it is performed. These forms, known as vitality forms, play a crucial role in enhancing the quality of human-robot interaction, particularly when they can be recognized by artificial agents such as humanoid robots. The present study aims to develop and validate forty short stories designed to elicit four distinct vitality forms: fed-up, rude, gentle, and enthusiastic. The stories were generated with the support of a large language model to minimize potential bias related to researchers' subjective interpretations and were validated through an online questionnaire. In the questionnaire, participants read each story and selected up to three emotional labels from a set of fifty-one. The data were analysed using two complementary methods, percentage-based and weighted frequency analyses, which yielded largely consistent results. The most effective stories for each vitality form will be used in a future human-robot interaction study to investigate the motor behaviours associated with each form during interaction with a humanoid robot such as iCub.",
+isbn="978-981-95-2379-5"
+}
+

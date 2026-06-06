@@ -1,0 +1,27 @@
+@InProceedings{10.1007/978-981-95-2379-5_2,
+author="Fong, Hunter
+and Soufargi, Selim
+and Li, Yifei
+and Mancini, Maurizio
+and Niewiadomski, Radoslaw",
+editor="Staffa, Mariacarla
+and Cabibihan, John-John
+and Siciliano, Bruno
+and Ge, Shuzhi Sam
+and Bodenhagen, Leon
+and Tapus, Adriana
+and Rossi, Silvia
+and Cavallo, Filippo
+and Fiorini, Laura
+and Matarese, Marco
+and He, Hongsheng",
+title="Individual Differences in Social and Emotional Responses to Robotic Dining Companions: Toward Personalized Interaction Design",
+booktitle="Social Robotics + AI",
+year="2026",
+publisher="Springer Nature Singapore",
+address="Singapore",
+pages="16--32",
+abstract="This study investigates how affective and personality traits shape users' emotional and social responses to a robotic dining companion in a commensal context. The companion is a NAO robot, equipped with a GPT-based dialogue and a commensal activity visual detection module, able to engage in mealtime conversation and exhibit responsive nonverbal behaviors. Twenty-two participants shared a meal with the robot and completed pre- and post-interaction measures of personality, affect, commensality habits, enjoyment of the interaction, and perceived social connection. Results showed that participants high in openness reported greater enjoyment of the interaction and more positive situational affect, while those high in negative trait affect also reported high enjoyment of the interaction, suggesting that the robot provided value even for users who were not predisposed to feel good. Perceived social connection was predicted by negative affect, frequency of eating with others, and technology use during meals. Traits like extraversion and agreeableness were inversely related to connection---suggesting that artificial social agents may resonate most with emotionally sensitive users, rather than the most sociable ones. These findings suggest that commensal robotic companions may be particularly well-suited to users high in negative affect and openness, but also highlight the importance of adapting dialogue and behavioral strategies to users' personality traits.",
+isbn="978-981-95-2379-5"
+}
+
